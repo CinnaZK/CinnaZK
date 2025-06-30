@@ -1,59 +1,92 @@
-# Cinna
+  oooooooo8 ooooo oooo   oooo oooo   oooo     o     
+o888     88  888   8888o  88   8888o  88     888    
+888          888   88 888o88   88 888o88    8  88   
+888o     oo  888   88   8888   88   8888   8oooo88  
+ 888oooo88  o888o o88o    88  o88o    88 o88o  o888o
 
-**Cinna** is a decentralized infrastructure for composable, privacy-preserving AI agents. Built on the Model Context Protocol (MCP), Cinna enables intelligent systems to collaborate, reason, and evolve across a shared semantic and computational layer.
 
-Cinna introduces a new class of agent-to-agent interactions through modularity, interoperability, and user-owned memory. It brings Web3 principles to the AI stack, allowing developers to build and compose intelligent agents with fine-grained control over data, tools, and execution.
+**Cinna** is a composable infrastructure for intelligent agents.  
+A semantic mesh where AI modules are interoperable, memory is wallet-bound, and the protocol is open.
 
-## ✨ Key Concepts
+This is not AI as a product.  
+This is AI as a protocol.
 
-- **Composable Intelligence**: Agents designed as modular, task-specific components that can be combined to solve complex problems
-- **MCP Integration**: A standardized protocol for agent and tool communication, enabling dynamic workflows
-- **Agent Mesh**: A decentralized network of AI agents discoverable and interoperable across Web2 and Web3 services
-- **OSS (Semantic Symbol)**: A decentralized identity system for registering agents and models as composable entities
-- **Self-Sovereign Memory**: Each wallet holds its own encrypted memory, usable across any Cinna-compatible agent
+---
 
-## 🧠 What You Can Build
+## Why Cinna?
 
-- AI-powered data pipelines that integrate tools like CoinGecko, Firecrawl, and social data sources
-- Modular agents that fetch, analyze, and act on real-time information
-- Custom intelligent assistants with persistent memory and local data control
-- MCP-compatible microservices for AI automation and orchestration
+🧠 **Modular Agents**  
+Cinna agents are specialized and designed to work together.  
+They are not apps — they are building blocks of distributed cognition.
 
-## 🧩 Ecosystem Components
+📡 **MCP Powered**  
+Everything speaks the [Model Context Protocol](https://humanloop.com/blog/mcp).  
+Agents and tools connect dynamically through shared context.
 
-- **Cinna Mesh**: The compositional runtime for connecting and managing AI agents
-- **MCP Server**: Deployable endpoints that act as secure gateways between models and tools
-- **OSS Registry**: Register and verify your agents, enabling them to interact within the Cinna ecosystem
-- **Toolset Layer**: Plug in external APIs or services into your agent flows using a standard interface
+🧬 **Semantic Identity**  
+Every agent and tool can be registered onchain with the OSS Registry.  
+This enables permissionless discovery and composability.
 
-## 🚀 Quick Start
+🔐 **Self-Sovereign Memory**  
+Encrypted, wallet-bound memory ensures your history belongs to you.  
+Context persists across agents without any central storage.
 
-Start by reading the documentation:  
-👉 [https://cinna-zk.gitbook.io/cinna](https://cinna-zk.gitbook.io/cinna)
+---
 
-Or deploy your own MCP server:  
-👉 [https://mcp.cinna.ai](https://mcp.cinna.ai)
+## What You Can Build
 
-## 🛠️ Built With
+- AI pipelines using Firecrawl, CoinGecko, Bitquery, and Exa  
+- Modular research agents with persistent encrypted memory  
+- Custom autonomous assistants that act across Web2 and Web3  
+- Meta-agents that reason about other tools in real time
+
+Agents in Cinna are designed to cooperate and evolve.  
+This is intelligence in motion.
+
+---
+
+## Cinna Mesh
+
+The decentralized runtime for composable intelligence.  
+Agents function like modular logic blocks — composable, discoverable, and upgradable.
+
+▢ Connect hundreds of tools  
+▢ Share encrypted memory across systems  
+▢ Launch your own MCP server instantly  
+▢ Build workflows without vendor lock-in
+
+🔗 TBA
+
+---
+
+## Getting Started
+
+📘 Read the docs:  
+[https://cinna-zk.gitbook.io/cinna](https://cinna-zk.gitbook.io/cinna)
+
+🧰 Launch your own mesh server:  
+TBA
+
+---
+
+## Built With
 
 - Python  
-- Model Context Protocol (MCP)  
-- ZK tooling  
-- Web3 primitives  
-- Claude, Gemini, and other LLMs  
+- Claude and Gemini  
+- ZK verification primitives  
+- Wallet-native memory  
+- Model Context Protocol
 
-## 🧭 Roadmap Highlights
+---
 
-- Wallet-bound AI memory  
-- ZK-proof integrations  
-- Agent marketplaces and OSS resolution layers  
-- Composable agent orchestration for enterprise and research use cases  
-
-## 📄 License
+## License
 
 MIT License
 
 ---
 
-Cinna is building the foundation for decentralized, modular AI infrastructure.  
-Join us in shaping the next generation of open intelligence.
+Cinna is a protocol for shared intelligence.  
+Not a single system — but a growing semantic mesh.  
+Welcome to the next layer 🌾
+
+ 
