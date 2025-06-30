@@ -1,9 +1,9 @@
-  oooooooo8 ooooo oooo   oooo oooo   oooo     o     
-o888     88  888   8888o  88   8888o  88     888    
-888          888   88 888o88   88 888o88    8  88   
-888o     oo  888   88   8888   88   8888   8oooo88  
- 888oooo88  o888o o88o    88  o88o    88 o88o  o888o
-
+   ██████╗ ██╗███╗   ██╗███╗   ██╗ █████╗ 
+  ██╔════╝ ██║████╗  ██║████╗  ██║██╔══██╗
+  ██║      ██║██╔██╗ ██║██╔██╗ ██║███████║
+  ██║      ██║██║╚██╗██║██║╚██╗██║██╔══██║
+  ╚██████╔╝██║██║ ╚████║██║ ╚████║██║  ██║
+   ╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
 **Cinna** is a composable infrastructure for intelligent agents.  
 A semantic mesh where AI modules are interoperable, memory is wallet-bound, and the protocol is open.
